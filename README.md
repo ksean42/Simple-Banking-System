@@ -13,8 +13,16 @@ Features:
 - Close account.
 - Save all data in **SQLite** db.
 
-Run with -fileName argument to specify database file.
+**Build**: 
+```
+$mvn clean compile assembly:single
+$mvn package
+```
 
+**Run** with -fileName argument to specify database file:
+```
+$java -jar target/SimpleBankingSystem-1.0-SNAPSHOT-jar-with-dependencies.jar -fileName sample.s3db
+```
 # Example:
 
 ```
