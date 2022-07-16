@@ -3,6 +3,7 @@ Learned topics:
 :white_check_mark: **JDBC**
 :white_check_mark: SQL
 :white_check_mark: Luhn Algorithm
+:white_check_mark: Maven
 
 My simple banking system project.
 
