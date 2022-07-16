@@ -7,7 +7,7 @@ Learned topics:
 My simple banking system project.
 
 Features:
-- Creating account (generating card number and pin code with Luhn algorithm).
+- Creating account (generating random card number and pin code with Luhn algorithm).
 - Transfer money between accounts and adding income.
 - Checking card number with Luhn algorithm
 - Close account.
